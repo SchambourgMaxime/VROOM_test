@@ -24,6 +24,8 @@
 /[Aa]ssets/Plugins/Editor/JetBrains*
 
 MyVroom/[Ll]ibrary*
+MyVroom/[Tt]emp*
+.log
 
 # Visual Studio cache directory
 .vs/
