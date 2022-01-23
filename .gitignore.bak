@@ -25,7 +25,9 @@
 
 MyVroom/[Ll]ibrary*
 MyVroom/[Tt]emp*
-.log
+MyVroom/[Ll]ogs*
+
+*.log
 
 # Visual Studio cache directory
 .vs/
